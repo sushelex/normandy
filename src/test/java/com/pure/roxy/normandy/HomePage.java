@@ -18,4 +18,9 @@ public void clickOnHomeIcon()
 	{
 		Base.getdriver().findElement(By.xpath("")).click();
 	}
+	
+		public void clickOnWalkOnline()
+	{
+		Base.getdriver().findElement(By.xpath("")).click();
+	}
 }
