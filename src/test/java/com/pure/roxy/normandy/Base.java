@@ -18,4 +18,9 @@ public class Base
 	{
 		element.click();
 	}
+	
+	public static void select(WebElement select)
+	{
+		select.click();
+	}
 }
